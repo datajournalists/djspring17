@@ -1,5 +1,8 @@
 ## Welcome to the Data Journalism class materials for the Spring 2017 course at CUNY J-School.
 
+#### Public website
+http://username.github.io/repository.
+
 In here I will add the Syllabus and other relevant materials. Beware: everything in this repository is publicly available. That means that your homeworkd exercises, comments and professor feedback will live in the open. For your reporting projects you will be asked to create a team repository and invite your professors to it. Your reporting memos, updates and questions regarding reporting projects will live in YOUR team repository (one that you have to create and keep private while you are reporting).
 
 ### Stuff about GitHub Pages that I will delete.
@@ -18,6 +21,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 - Bulleted
 - List
@@ -32,10 +38,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Theme Used: Dinky
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datajournalists/djspring17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support or Contact for Github Pages
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
