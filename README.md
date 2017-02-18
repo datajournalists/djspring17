@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Data Journalism class materials for the Spring 2017 course at CUNY J-School.
+
+In here I will add the Syllabus and other relevant materials. Beware: everything in this repository is publicly available. That means that your homeworkd exercises, comments and professor feedback will live in the open. For your reporting projects you will be asked to create a team repository and invite your professors to it. Your reporting memos, updates and questions regarding reporting projects will live in YOUR team repository (one that you have to create and keep private while you are reporting).
+
+### Stuff about GitHub Pages that I will delete.
 
 You can use the [editor on GitHub](https://github.com/datajournalists/djspring17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
