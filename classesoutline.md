@@ -9,6 +9,7 @@ This is a 15 week course. As anything in Journalism, the classes outline is subj
 
 -  Feb. 1: Course introduction and goals, how we will workhouse, researching and finding data
 -  Feb. 8: Backgrounding people and organizations, planning and pitching investigations    
+
 > **Feb. 15. NO CLASS, MONDAY SCHEDULE**
 
 - Feb. 22: Math and statistical methods for reporting 1 and pitches
@@ -17,7 +18,8 @@ This is a 15 week course. As anything in Journalism, the classes outline is subj
 - Mar. 15: Math and statistical methods for reporting 4
 - Mar. 22: Data and database managers 1: Interviewing data with SQL
 - Mar. 29: Data and database managers 2: Interviewing data and creating SQL databases
-- Apr. 5: Extracting and cleaning data   
+- Apr. 5: Extracting and cleaning data
+
 > **Apr. 12. NO CLASS. SPRINGBREAK**
 
 - Apr. 19: Extracting and cleaning data
