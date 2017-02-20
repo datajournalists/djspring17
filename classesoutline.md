@@ -26,5 +26,5 @@ This is a 15 week course. As anything in Journalism, the classes outline is subj
 - Apr. 26: Charts and graphics for data analysis **(TBC Neo4j workshop)**
 - May. 3: GeoSpatial Analysis 1
 - May. 10: GeoSpatial Analysis 2
-- May. 17: Newsroom work: story and web authoring editing
+- May. 17: Newsroom work: final story and web editing
 - May. 24: Demo day
