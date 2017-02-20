@@ -1,8 +1,8 @@
 ## Classes Outline, Data Journalism Spring 2017
 
-[//]: # (1. Each class title links to it's class .md document.
-2. Each class .md includes class details, including links to assignments that are written as assignment-number or assignment-deadline .md, readings and required software.
-3. Data for assignments goes in the `data` folder.)
+[//]: # (1. Each class title links to it's class .md document.)
+[//]: # (2. Each class .md includes class details, including links to assignments that are written as assignment-number or assignment-deadline .md, readings and required software.)
+[//]: # (3. Data for assignments goes in the `data` folder.)
 
 
 As anything in Journalism, the classes outline is subject to modifications, depending on the course progress and reporting challenges. You will get notified of changes and their reasons via Github's version control system.
