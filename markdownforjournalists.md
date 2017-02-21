@@ -13,7 +13,7 @@ One caveat: you can write content and turn it into HTML but you will have to add
 
 Many newsrooms and journalists use it to write their content, especially if it goes through a process of editing and collective web production that involves designers and programmers.
 
-Here is a use case, that [Poynter wrote about](https://www.poynter.org/2015/keeping-up-with-the-times-free-tech-for-nonprofit-newsrooms/384231/) not so long ago: "Investigative reporters at the Marshall Project write directly in Google Docs and share their copy with an editor when they’re done. Then, a script Vong wrote converts the text into markdown language that graphic designer will use when designing the story for the Marshall site".
+Here is a use case, that [Poynter wrote about](https://www.poynter.org/2015/keeping-up-with-the-times-free-tech-for-nonprofit-newsrooms/384231/) not so long ago: "Investigative reporters at the Marshall Project write directly in Google Docs and share their copy with an editor when they’re done. Then, a script Vong (Ivar Vong, director of technology) wrote converts the text into markdown language that graphic designer will use when designing the story for the Marshall site".
 
 Markdown is one of the tools several digital news operations adopt to "reduce barriers between programmers and non-programmers" working together, [found](http://towcenter.org/reducing-barriers-between-programmers-and-non-programmers-in-the-newsroom/) the Tow Center for Digital Journalism.
 
