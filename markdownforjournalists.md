@@ -1,4 +1,4 @@
-## What is Markdown and why journalists use it?
+# What is Markdown and why journalists use it?
 
 Markdown is ["a text-to-HTML conversion tool for web writers"](http://daringfireball.net/projects/markdown/), created by John Gruber to help you focus on writing instead of worrying about document formatting and what happens to that formatting when your document is converted to another format (hint: a mess).
 
@@ -9,7 +9,7 @@ E.g.: asterisks around a `*word in italic*` convert it into a *word in italic* a
 
 One caveat: you can write content and turn it into HTML but you will have to add the HTML page structure tags (E.g. `<!document type>`, `<body>`, etc.).
 
-### Helps reporters write fast and collaborate
+## Helps reporters write fast and collaborate
 
 Many newsrooms and journalists use it to write their content, especially if it goes through a process of editing and collective web production that involves designers and programmers.
 
@@ -21,7 +21,7 @@ Reporters at NPR and ProPublica use it to handle copy as part of their workflow,
 
 Why? It is dead easy to learn it and to write very fast with it without worrying about conversion issues (forget about wrong spacing, text styling and errors handling simple HTML tags).
 
-### Learn it in five minutes
+## Learn it in five minutes
 
 Because Markdown documents are plain text documents, you can use any text editor to create and edit a document. This means that you can write Markdown in [Sublime Text](https://www.sublimetext.com/), [Atom](www.atom.io), [Vim](http://www.vim.org/), [Visual Studio](https://code.visualstudio.com/docs), [Brackets](http://brackets.io/), [Notepad++](https://notepad-plus-plus.org/) or whatever text editor you prefer. Just **remember** to save the document as `filename.md` or `filename.markdown`.
 
@@ -66,7 +66,7 @@ For more examples and syntax options see:
 - [John Gruber's Markdown original page](https://daringfireball.net/projects/markdown/)
 - [A Markwdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Pick and use a Markdown editor
+## Pick and use a Markdown editor
 
 While a text editor gives you a fast way to create a `.md` document, the real benefit of using Markdown is evident when you need to convert the file into another format for publication, like HTML, .PDF (book) or a Word document (traditional proof reading).
 
