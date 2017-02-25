@@ -19,6 +19,7 @@ Markdown is one of the tools several digital news operations adopt to "reduce ba
 
 Reporters at NPR and ProPublica use it to handle copy as part of their workflow, [Vox Media purchased Editoria.ly](http://stet.editorially.com/articles/editorially-joins-vox-media/) (a startup that redefined the writing and collaboration experience with Markdown among other features), to boost Vox's already innovative publishing technology; and platforms and startups like Stack Overflow, Carto, Codeacademy, to name a few, [have adapted Markdown as their content formatting tool](https://carto.com/blog/why-we-use-markdow).
 
+
 Why? It is dead easy to learn it and to write very fast with it without worrying about conversion issues (forget about wrong spacing, text styling and errors handling simple HTML tags).
 
 ## Learn it in five minutes
