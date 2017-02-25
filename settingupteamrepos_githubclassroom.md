@@ -6,7 +6,7 @@ In this short guide I use the major two story assignments for the semester as th
 
 ## 1. Get the team repository link and sign in Github
 
-You will receive a link (something like http://classroom.github.com/group-assignment-invitations/something) in an email from your instructor to create your team repository. After you click on the link, the Github page will ask you to sign up for an account or sign in to your existing account.
+You will receive a link (something like `http://classroom.github.com/group-assignment-invitations/something`) in an email from your instructor to create your team repository. After you click on the link, the Github page will ask you to sign up for an account or sign in to your existing account.
 
 ![][1]
 
