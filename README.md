@@ -299,12 +299,12 @@ Example: Story project 1 is 30% of your final grade. On a point scale your repor
   </tr>
   <tr>
     <td></td>
-    <td>Story 1: Draft of story (25 points)</td>
+    <td>Story 1: Draft of story</td>
     <td>25</td>
   </tr>
   <tr>
     <td></td>
-    <td>Story 1: Final story (5o points)</td>
+    <td>Story 1: Final story</td>
     <td>50</td>
   </tr>
   <tr>
