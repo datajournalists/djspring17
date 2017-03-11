@@ -2,6 +2,7 @@
 
 There are 10 individual homework data exercises. After the second assignment, the instructors will add here the assignment details. You will send your completed assignments via email.
 
+
 - Statistics exercise 1. Deadline: Wed. March 1, noon. Sent via email.
 
 - Statistics exercise 2. Deadline: Wed. March 8, noon. Sent via email.
@@ -15,6 +16,7 @@ Pick data from the data sets you are using for your story and import it to SQLit
 Send your instructors **via email**:
 
 1. A short comment about what you learned by doing the Part 1 Tutorial exercise (and any doubts or problems you had).
+
 2. The questions you asked the data and the answers you got (very brief)
 
 Further help: [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
