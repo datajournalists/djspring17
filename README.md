@@ -75,7 +75,7 @@ It's critical that students learn to include a diverse set of voices in their st
 
 ## Assignments & Due Dates
 
-*Note:* For the first 3 weeks you will file your assignments via email to [miguel.paz@journalism.cuny.edu](mailto:miguel.paz@journalism.cuny.edu) and [ryan.mcneill@journalism.cuny.edu](mailto:ryan.mcneill@journalism.cuny.edu)
+*Note:* For the first 3 weeks you will file your assignments via email to [miguel.paz@journalism.cuny.edu](mailto:miguel.paz@journalism.cuny.edu) and [ryan.mcneill@journalism.cuny.edu](mailto:ryan.mcneill@journalism.cuny.edu).
 
 *After Week 3 you will file your assignments using the Class Github repository. The link and instructions will be informed to you in Week 3.*
 
