@@ -1,13 +1,6 @@
 ### Homework data exercises (15%)
 
-<!--
-1. Title
-2. Description of assignment and it's requirements
-3. Data for assignments goes in the `data` folder
-4. Correct answers is stored as assignment-number-answers.md
--- >
-
-There are 10 individual homework data exercises.
+There are 10 individual homework data exercises. After the second assignment, the instructors will add here the assignment details. You will send your completed assignments via email.
 
 - Statistics exercise 1. Deadline: Wed. March 1, noon. Sent via email.
 
@@ -19,7 +12,8 @@ Complete the exercises of [Part 1 of this SQLite tutorial](https://github.com/tt
 
 Pick data from the data sets you are using for your story and import it to SQLite or create a SQL database following what you learned doing the Part 1 Tutorial exercise [(more help here)](https://www.w3schools.com/sql/sql_create_db.asp). Ask the data questions using queries.
 
-Send your instructors **via email**: 
+Send your instructors **via email**:
+
 1. A short comment about what you learned by doing the Part 1 Tutorial exercise (and any doubts or problems you had).
 2. The questions you asked the data and the answers you got (very brief)
 
