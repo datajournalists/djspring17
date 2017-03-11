@@ -67,15 +67,16 @@ What I like about it (besides the aforementioned):
   - Still trying it so I can't say for sure but it promises that "you can understand the code even without programming experience" by mixing the logic spreadsheet utilities, like filtering, sorting, grouping, sum, rank, etc., with programming language on it's live editor and preview the results.
   - Start by a) reading the [Exploring](http://thegamma.net/exploring/) section to understand the language and logic b) [Publishing](http://thegamma.net/publishing/) to understand how to add data and work with it. c) [Developers page](http://thegamma.net/developers/) to read details and follow the instructions to download The Gamma's npm package and add other necessary components to have your local setup. **Beware:** If you are on deadline and/or don't know how to work with Rest services, command line or JS, don't try The Gamma yet.
   - Downside: It can be a bit complicated at first. Is a good way to learn more about data wrangling and programming but the on-boarding process for journalists is THE thing The Gamma needs improvement with.
-[Short presentation](http://tpetricek.github.io/Talks/2016/open-storytelling/#/)
-[Programming Tools for Data Journalism: video workshop](https://www.youtube.com/watch?v=cYoO2RvZn7Y)
+[Short presentation](http://tpetricek.github.io/Talks/2016/open-storytelling/#/).
+
+[Programming Tools for Data Journalism: video workshop](https://www.youtube.com/watch?v=cYoO2RvZn7Y).
 
 Next to add in the list:
 
-- SQLPad
+- SQLPad https://rickbergfalk.github.io/sqlpad/
 
-- Orange
+- Orange http://orange.biolab.si/#Orange-Features
 
-- The NPR Daily Graphics Rig
+- The NPR Daily Graphics Rig (needs a lot of setup for a beginner and is S3 server oriented) https://github.com/nprapps/dailygraphics
 
-- Tableau
+- Tableau https://public.tableau.com/
