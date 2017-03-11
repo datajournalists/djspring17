@@ -63,13 +63,13 @@ It's critical that students learn to include a diverse set of voices in their st
 
 ## Instructors and office hours
 
-- Miguel Paz [(bio)](https://www.journalism.cuny.edu/cunyj_profiles/paz-miguel-distinguished-lecturer-data-journalism-and-multimedia-storytelling/) — [miguel.paz@journalism.cuny.edu](mailto:miguel.paz@journalism.cuny.edu)
+- [Miguel Paz](https://www.journalism.cuny.edu/cunyj_profiles/paz-miguel-distinguished-lecturer-data-journalism-and-multimedia-storytelling/) — [miguel.paz@journalism.cuny.edu](mailto:miguel.paz@journalism.cuny.edu)
 
   - Office 421 A. Thursday 11:30 am - 1:00 p.m. and 2:30 pm - 5:30 pm. By appointment: [https://calendly.com/miguelpaz/officehours](https://calendly.com/miguelpaz/officehours). Teams are encouraged to book a weekly time slot to work with with me in their projects. If you have conflicting schedule issues let me know and I will try to accommodate you.
 
-- Ryan McNeill [(bio)](https://www.journalism.cuny.edu/cunyj_profiles/mcneill-ryan-investigative-reporting/) — [ryan,mcneill@journalism.cuny.edu](mailto:ryan,mcneill@journalism.cuny.edu)
+- [Ryan McNeill](https://www.journalism.cuny.edu/cunyj_profiles/mcneill-ryan-investigative-reporting/) — [ryan.mcneill@journalism.cuny.edu](mailto:ryan.mcneill@journalism.cuny.edu)
 
-  - By appointment, via email: [ryan.mcneill@journalism.cuny.edu](mailto:ryan.mcneill@journalism.cuny.edu)   
+  - Meeting by appointment, via email.
 
 **Communication channels:** [class Slack group](https://miguelpaz.slack.com) (#general, #leads, #recommended, direct messages for private questions). SMS for urgent stuff, email for longer things.
 
