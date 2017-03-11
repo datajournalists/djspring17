@@ -7,7 +7,7 @@ There are hundreds of authoring tools and code for charting and doing all sorts 
 - Is it for data analysis and publication of a project where you can take time to work on it? Do you have statistical and a medium to high level of coding skills? You may produce customized visualizations which will require knowing Javascript and libraries to produce data driven visualizations, like [D3](https://d3js.org/), [D3plus](https://d3plus.org/), [C3js](http://c3js.org/) and so many others (see [Awesome charting](https://github.com/zingchart/awesome-charting#free-and-open-source-libraries) and [Awesome dataviz](https://github.com/fasouto/awesome-dataviz)).
 - What are your personal preferences? The same way you like some writing styles more than others, different programming syntax styles appeal to different minded people and you will like one language more than others. When it comes to code for data analysis you can see an excellent example in this [infographic comparison between Python and R](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)).
 
-## Not much time, fast publication, regular data analysis
+## A list of favorites and new graphic tools  
 
 For our work I chose a short list of charting options. Like a food menu, this combo is like a lunch box for every day consumption. There are way more options you can explore by yourself.
 
@@ -71,7 +71,7 @@ What I like about it (besides the aforementioned):
 
 Next to add in the list:
 
-- SQLPad 
+- SQLPad
 
 - Orange
 
