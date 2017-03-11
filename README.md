@@ -17,22 +17,7 @@ Data are everywhere. In public sources, like election results, budgets and censu
 In this hands-on course you will learn to gather, clean, structure and analyze data, use statistical methods to find relevant insights and bullet proof your work to produce two data-driven stories that may be of relevance to our community.
 
 While you learn to use different software and improve your data skills in our lab sessions, the driving theme of this course will be to do Journalism in the public interest.
-
-Students will have individual lab assignments and will work in teams of two for the two semester stories, focused on original reporting about a public policy, an agency or government authority. Each team will pitch four stories and the instructors will choose two that they will report on during the entire semester.  **You will choose a Topic Beat. And you will OWN it** **for the entire semester.** In the same way [ProPublica defined its strategic reporting beats for the years to come](https://www.propublica.org/article/this-is-what-propublica-is-now-covering).
-
-The pitching and reporting process step by step:
-
-In the first class we will organize in five teams.
-
-Each team will choose a topic beat and hand in a reporting memo about the topic beat before the 2nd class, with as much relevant information you can gather about the topic. The idea is that you become as close to an expert as you can. In the 2nd class each team summarizes findings.
-
-In week 3 class each team pitches four story ideas. From those four, the Instructors will choose two stories to work on for the semester and define which one they will do first and which second (by the time you hand in the 1st story we revisit the value of the 2nd story and see if it’s still feasible or you can propose a new one).
-
-Almost every week teams file reporting memos stating what they have got done and what’s next in their reporting.
-
-Teams are encouraged to meet in weekly office hours with the instructor.
-
-By the end of the semester you will have done two story projects, produced several reporting memos, handed in lab homework data exercises and read book chapters about data journalism, statistics, investigative reporting and visualizing information.
+Students will have individual lab assignments and will work in teams of two for the two semester stories, focused on original reporting about a public policy, an agency or government authority. Each team will pitch four stories and the instructors will choose two that they will report on during the entire semester. **You will choose a Topic Beat. And you will OWN it** **for the entire semester.** In the same way [ProPublica defined its strategic reporting beats for the years to come](https://www.propublica.org/article/this-is-what-propublica-is-now-covering).
 
 ## Objectives and outcomes
 
@@ -102,8 +87,8 @@ In the first class we will organize in teams of two people (5 teams). Each team 
 
 In 3rd class each team pitches four story ideas. The Instructors will choose two story ideas per team. You will work on them for the entire semester and we will pick together which one you will do first and which second (by the time you hand in the 1st story we revisit the value of the 2nd story and see if it’s still feasible or you can propose a new one).
 
-
 **Pitch requirements:**
+
 You must pitch 4 story ideas in 1 single document. Each story pitch should be 1 page long, 2 pages long max.
 
 For each story describe it in detail (1 page, 2 max. per story) by answering the following questions:
@@ -130,9 +115,9 @@ For each story describe it in detail (1 page, 2 max. per story) by answering the
 
 - Maximum/minimum.
 
-What is the maximum (best) story possible?
+  - What is the maximum (best) story possible?
 
-What’s the minimum (fallback) story if your hypothesis doesn’t prove out?
+  - What’s the minimum (fallback) story if your hypothesis doesn’t prove out?
 
 - Extra: Other questions that you can answer in a sentence: What other question is your story trying to answer? How will this story hold someone accountable? Does this story have potential to drive change?
 
@@ -146,7 +131,7 @@ Your participation and professionalism includes attending all classes, arriving 
 
 ### Homework data exercises (15%)
 
-There will be 10 individual homework data exercises.
+There will be 10 individual homework data exercises that will be [detailed the week before deadline, here](https://github.com/datajournalists/djspring17/blob/master/homework.md).
 
 - Statistics exercise 1. Deadline: Wed. March 1, noon
 - Statistics exercise 2. Deadline: Wed. March 8, noon
