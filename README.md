@@ -411,7 +411,7 @@ Instructors will also share tip sheets, stories and tutorials for specific class
 
 ## Class Schedule
 
-What follows is a *tentative* schedule, so please carefully follow the online classroom and updates from instructors.
+What follows is a *tentative* schedule. This may change depending on how well you are progressing. If we need more time to work on something or change the order of a lesson plan we will do it and we will update the syllabus. So please be aware of updates from instructors.
 
 ### Week 1 (Feb. 1)
 
