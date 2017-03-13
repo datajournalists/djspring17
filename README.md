@@ -369,6 +369,12 @@ In assessing students' work, the instructor will focus on the following factors 
 
 * Participation: If the exercise involves collaboration, did the student contribute?
 
+## Capstone and extra credit
+
+**Capstone:** Students who wish to incorporate material from the class into a capstone project may be able to make special arrangements.
+
+**Extra credit:** One of the instructors (Miguel) maintains a Medium publication called [Notes from the Classroom](https://medium.com/notes-from-the-classroom), where he and interested students write about tools, lessons, short tutorials and class work. If you write one or more posts about how you used data, specific tools and methodologies to produce one of your class stories you get extra credit. This extra credit will increase your lowest grade by 10% to 20%, depending on the quality and detail of the post. If you and your team members write a post, you must tell me what each one did in the project and in the written post.
+
 ## Readings
 
 Students will read selected chapters of the following books (available at the Research Center for this course).
