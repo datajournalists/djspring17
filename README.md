@@ -492,6 +492,7 @@ Class
 Homework:
 Story 1 Draft
 SQL exercise 1
+Useful tutorials: [SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks), [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
 
 ### Week 6 (March 15)
 

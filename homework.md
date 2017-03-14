@@ -11,7 +11,7 @@ There are 10 individual homework data exercises. After the second assignment, th
 
 Complete the exercises of [Part 1 of this SQLite tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile#creating-the-first-database).
 
-Pick data from the data sets you are using for your story and import it to SQLite or create a SQL database following what you learned doing the Part 1 Tutorial exercise [(more help here)](https://www.w3schools.com/sql/sql_create_db.asp). Ask the data questions using queries.
+Pick data from the data sets you are using for your story and import it to SQLite or create a SQL database following what you learned doing the Part 1 Tutorial exercise [(more help here)](https://www.w3schools.com/sql/sql_create_db.asp). Ask the data 3 questions using queries and the answers.
 
 Send your instructors **via email**:
 
@@ -19,7 +19,7 @@ Send your instructors **via email**:
 
 2. The questions you asked the data and the answers you got (very brief)
 
-Further help: [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
+Further help: [SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks), [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
 
 - SQL exercise 2. Deadline: Wed. March 22, noon
 - Statistics exercise 3. Deadline: Wed. March 29, noon
