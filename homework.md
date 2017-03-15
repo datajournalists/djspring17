@@ -21,7 +21,42 @@ Send your instructors **via email**:
 
 Further help: [SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks), [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
 
-- SQL exercise 2. Deadline: Wed. March 22, noon
+- SQL exercise 2. Deadline: Wed. March 22, noon.
+
+**Find out who gives money to NY Rep. Christopher Collins [(profile in FEC)](https://beta.fec.gov/data/candidate/H8NY29032/?cycle=2016)**
+
+Create a new database called `collins` (it will get the .sqlite added, so when you create it will be `collins.sqlite`).
+Download [collins.zip](http://bit.ly/collinssqliteexcercise). It includes a data.csv file of individual contributors to New York Rep. House representative Chris Collins for period 2015-2016, and a .txt file with details of the database record layout. The source is [the FEC](https://beta.fec.gov/data/committee/C00520379/?tab=receipts&cycle=2016).
+
+Import data.csv into Excel and review the headers and check what each one stands for in the .txt record layout. Create a new worksheet in Excel with the  following columns:
+committee_id
+report_year
+report_type
+entity_type
+contributor_first_name
+contributor_middle_name
+contributor_last_name
+contributor_city
+contributor_state
+contributor_occupation
+contributor_zip
+contribution_receipt_date
+contribution_receipt_amount
+
+Open the SQL `collins.sqlite` database and create a table called `contributors`.
+Add the previous fields in SQLite. Define committe_id as INTEGER and primary key.
+Define the ZIP and DATE fields as VARCHAR. The contribution_receipt_amount as INTEGER.
+
+Once you’ve done that, write queries to do the following:
+1. Show the contributors from Virginia
+2. Show contributors from New York who gave at least $500.00
+3. Count how many contributors are from New York and how much they gave in total
+4. Count how many contributors are from each state and how much they gave per in total per state
+5. Show contributors who listed their occupation as Retired, and order amounts from largest to smallest
+6. Show contributors who listed their occupation as CEO, and order amounts from largest to smallest
+
+Email us the `collins.sqlite` file as an attachment and the SQL results from 2 of your queries as .csv
+
 - Statistics exercise 3. Deadline: Wed. March 29, noon
 - Statistics exercise 4. Deadline: Wed. April 5, noon
 - Cleaning and extracting data. Deadline: Wed. April 19, noon
