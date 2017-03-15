@@ -3,11 +3,11 @@
 There are 10 individual homework data exercises. After the second assignment, the instructors will add here the assignment details. You will send your completed assignments via email.
 
 
-- Statistics exercise 1. Deadline: Wed. March 1, noon. Sent via email.
+## - Statistics exercise 1. Deadline: Wed. March 1, noon. Sent via email.
 
-- Statistics exercise 2. Deadline: Wed. March 8, noon. Sent via email.
+## - Statistics exercise 2. Deadline: Wed. March 8, noon. Sent via email.
 
-- SQL exercise 1. Deadline: Wed. March 15, noon.
+## - SQL exercise 1. Deadline: Wed. March 15, noon.
 
 Complete the exercises of [Part 1 of this SQLite tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile#creating-the-first-database).
 
@@ -21,7 +21,7 @@ Send your instructors **via email**:
 
 Further help: [SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks), [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
 
-- SQL exercise 2. Deadline: Wed. March 22, noon.
+## - SQL exercise 2. Deadline: Wed. March 22, noon.
 
 **Find out who gives money to NY Rep. Christopher Collins [(profile in FEC)](https://beta.fec.gov/data/candidate/H8NY29032/?cycle=2016)**
 
