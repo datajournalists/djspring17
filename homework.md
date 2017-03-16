@@ -60,9 +60,20 @@ Once you’ve done that, write queries to do the following:
 
 Email us the `collins.sqlite` file as an attachment and the SQL results from 2 of your queries as .csv
 
-- Statistics exercise 3. Deadline: Wed. March 29, noon
-- Statistics exercise 4. Deadline: Wed. April 5, noon
-- Cleaning and extracting data. Deadline: Wed. April 19, noon
-- Documents extraction exercise.  Deadline: Wed. April 26, noon
-- Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon
-- GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon
+## - Statistics exercise 3. Deadline: Wed. March 29, noon
+To be added
+
+## - Statistics exercise 4. Deadline: Wed. April 5, noon
+To be added
+
+## - Cleaning and extracting data. Deadline: Wed. April 19, noon
+To be added
+
+## - Documents extraction exercise.  Deadline: Wed. April 26, noon
+To be added
+
+## - Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon
+To be added
+
+## - GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon
+To be added
