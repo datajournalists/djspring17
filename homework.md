@@ -1,4 +1,4 @@
-### Homework data exercises (15%)
+# Homework data exercises (15%)
 
 There are 10 individual homework data exercises. After the second assignment, the instructors will add here the assignment details. You will send your completed assignments via email.
 
