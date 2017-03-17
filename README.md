@@ -79,7 +79,7 @@ It's critical that students learn to include a diverse set of voices in their st
 
 *After Week 3 you will file your assignments using the Class Github repository. The link and instructions will be informed to you in Week 3.*
 
-There are four major assignments: topic beat pre-reporting and pitch of 4 story ideas for 2 story projects (5%), class participation, class work and readings (15%), homework data exercises (15%), story project 1 (30%) and story project 2 (35%).
+The class assignments are composed by: topic beat pre-reporting and pitch of 4 story ideas for 2 story projects (5%), class participation, class work and readings (15%), homework data exercises (15%), story project 1 (30%) and story project 2 (35%).
 
 ### Topic beat pre-reporting and pitch of 4 story ideas (5%)
 
@@ -373,7 +373,7 @@ In assessing students' work, the instructor will focus on the following factors 
 
 **Capstone:** Students who wish to incorporate material from the class into a capstone project may be able to make special arrangements.
 
-**Extra credit:** One of the instructors (Miguel) maintains a Medium publication called [Notes from the Classroom](https://medium.com/notes-from-the-classroom), where he and interested students write about tools, lessons, short tutorials and class work. If you write one or more posts about how you used data, specific tools and methodologies to produce one of your class stories you get extra credit. This extra credit will increase your lowest grade by 10% to 20%, depending on the quality and detail of the post. If you and your team members write a post, you must tell me what each one did in the project and in the written post.
+**Extra credit:** One of the instructors (Miguel) maintains a Medium publication called [Notes from the Classroom](https://medium.com/notes-from-the-classroom), where he and interested students write about tools, lessons, short tutorials and class work. If you write one or more posts about how you used data, specific tools and methodologies to produce one of your class stories you get extra credit. This extra credit will increase by 10% to 20% your class participation, class work and readings grade, depending on the quality and detail of the post. If you and your team members write a post, you must tell me what each one did in the project and in the written post.
 
 ## Readings
 
