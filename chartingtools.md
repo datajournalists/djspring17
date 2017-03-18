@@ -72,8 +72,15 @@ What I like about it (besides the aforementioned):
 [Programming Tools for Data Journalism: video workshop](https://www.youtube.com/watch?v=cYoO2RvZn7Y).
 
 Next to add in the list:
-
+Data analysis and visualization
+MySQL, PostreSQL
 - SQLPad https://rickbergfalk.github.io/sqlpad/
+- More on the lines of dashboard products for visualizing and querying data:
+Metabase http://www.metabase.com free and open source, for SQL and other database managers. Installation
+http://www.metabase.com/docs/v0.22.2/operations-guide/start.html#installing-and-running-metabase
+Company user examples http://www.metabase.com/case_studies/
+Periscope data (free trial) https://www.periscopedata.com/
+Mode Analytics (free trial) https://modeanalytics.com/
 
 - Orange http://orange.biolab.si/#Orange-Features
 
