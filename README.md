@@ -1,10 +1,11 @@
 
 # Data Journalism course. Spring 2017, CUNY J-School
 
-- Website https://datajournalists.github.io/djspring17/
-- Spring 2017, JOUR 72312
-- Duration: 15 Weeks. February 1 to May 24. No classes on February 15 and April 12.
-- Room/Meeting: Wednesday 5:30 pm to 8:20 pm. Room 430.
+**Semester/code:** Spring 2017, JOUR 72312
+**Duration** 15 Weeks. February 1 to May 24. No classes on February 15 and April 12.
+**Room/Meeting:** Wednesday 5:30 pm to 8:20 pm. Room 430.
+
+**Index**
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
