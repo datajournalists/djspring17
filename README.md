@@ -1,20 +1,22 @@
 
-# Data Journalism course. Spring 2017, CUNY J-School
+Data Journalism. Spring 2017, CUNY J-School
 
-- Website https://datajournalists.github.io/djspring17/
-- Spring 2017, JOUR 72312
-- Duration: 15 Weeks. February 1 to May 24. No classes on February 15 and April 12.
-- Room/Meeting: Wednesday 5:30 pm to 8:20 pm. Room 430.
+**Semester/code:** Spring 2017, JOUR 72312
+
+**Duration** 15 Weeks. February 1 to May 24. No classes on February 15 and April 12.
+
+**Room/Meeting:** Wednesday 5:30 pm to 8:20 pm. Room 430.
+
+**Index**
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Data Journalism course. Spring 2017, CUNY J-School](#data-journalism-course-spring-2017-cuny-j-school)
 	- [Course Description](#course-description)
 	- [Objectives and outcomes](#objectives-and-outcomes)
 	- [Class rules](#class-rules)
 	- [Diversity](#diversity)
 	- [Instructors and office hours](#instructors-and-office-hours)
-	- [Assignments & Due Dates](#assignments-due-dates)
+	- [Assignments and Due Dates](#assignments-and-due-dates)
 		- [Topic beat pre-reporting and pitch of 4 story ideas (5%)](#topic-beat-pre-reporting-and-pitch-of-4-story-ideas-5)
 		- [Class participation, class work, readings (15%)](#class-participation-class-work-readings-15)
 		- [Homework data exercises (15%)](#homework-data-exercises-15)
@@ -115,7 +117,7 @@ It's critical that students learn to include a diverse set of voices in their st
 
 **Communication channels:** [class Slack group](https://miguelpaz.slack.com) (#general, #leads, #recommended, direct messages for private questions). SMS for urgent stuff, email for longer things.
 
-## Assignments & Due Dates
+## Assignments and Due Dates
 
 *Note:* For the first 3 weeks you will file your assignments via email to [miguel.paz@journalism.cuny.edu](mailto:miguel.paz@journalism.cuny.edu) and [ryan.mcneill@journalism.cuny.edu](mailto:ryan.mcneill@journalism.cuny.edu).
 
