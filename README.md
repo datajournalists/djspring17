@@ -104,7 +104,7 @@ This three-credit course explores complex storytelling using data. Students will
 
 ## Diversity
 
-It's critical that students learn to include a diverse set of voices in their stories, something that is often glossed over when finding stories in spreadsheets and online sources. You are encouraged and expected to look for stories about and voices from communities that are underrepresented. This also applies to our classroom. Diversity requires us all to discuss differences with respect and empathy, regarding race, gender, age, religion, gender, sexual preference, disability, language or origin.
+It's critical that students learn to include a diverse set of voices in their stories, something that is often glossed over when finding stories in spreadsheets and online sources. You are encouraged and expected to look for stories about and voices from communities that are underrepresented. This also applies to our classroom. Diversity requires us all to discuss differences with respect and empathy, regarding race, gender, age, religion, gender, sexual preference, disability, language, origin or political beliefs.
 
 ## Instructors and office hours
 
