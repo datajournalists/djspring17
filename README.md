@@ -1,5 +1,5 @@
 
-Data Journalism. Spring 2017, CUNY J-School
+# Data Journalism. Spring 2017, CUNY J-School
 
 **Semester/code:** Spring 2017, JOUR 72312
 
@@ -11,44 +11,44 @@ Data Journalism. Spring 2017, CUNY J-School
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [Course Description](#course-description)
-	- [Objectives and outcomes](#objectives-and-outcomes)
-	- [Class rules](#class-rules)
-	- [Diversity](#diversity)
-	- [Instructors and office hours](#instructors-and-office-hours)
-	- [Assignments and Due Dates](#assignments-and-due-dates)
-		- [Topic beat pre-reporting and pitch of 4 story ideas (5%)](#topic-beat-pre-reporting-and-pitch-of-4-story-ideas-5)
-		- [Class participation, class work, readings (15%)](#class-participation-class-work-readings-15)
-		- [Homework data exercises (15%)](#homework-data-exercises-15)
-		- [Story projects](#story-projects)
-		- [Deadlines](#deadlines)
-		- [Assignment Scale](#assignment-scale)
-		- [Assignment Values](#assignment-values)
-	- [Grading Rubric](#grading-rubric)
-		- [For all Assignments](#for-all-assignments)
-		- [For Discussions](#for-discussions)
-		- [For In-class Exercises](#for-in-class-exercises)
-	- [Capstone and extra credit](#capstone-and-extra-credit)
-	- [Readings](#readings)
-	- [Class Schedule](#class-schedule)
-		- [Week 1 (Feb. 1)](#week-1-feb-1)
-		- [Week 2 (Feb. 8)](#week-2-feb-8)
-		- [NO class, Monday schedule (Feb. 15)](#no-class-monday-schedule-feb-15)
-		- [Week 3 (Feb, 22)](#week-3-feb-22)
-		- [Week 4 (March 1)](#week-4-march-1)
-		- [Week 5 (March 8)](#week-5-march-8)
-		- [Week 6 (March 15)](#week-6-march-15)
-		- [Week 7 (March 22)](#week-7-march-22)
-		- [Week 8 (March 29)](#week-8-march-29)
-		- [Week 9 (April 5)](#week-9-april-5)
-		- [SPRINGBREAK. NO CLASS. April 12.](#springbreak-no-class-april-12)
-		- [Week 10 (April 19)](#week-10-april-19)
-		- [Week 11 (April 26)](#week-11-april-26)
-		- [Week 12 (May 3)](#week-12-may-3)
-		- [Week 13 (May 10)](#week-13-may-10)
-		- [Week 14 (May 17)](#week-14-may-17)
-		- [Week 15 (May 24)](#week-15-may-24)
-	- [Coaches](#coaches)
+- [Course Description](#course-description)
+- [Objectives and outcomes](#objectives-and-outcomes)
+- [Class rules](#class-rules)
+- [Diversity](#diversity)
+- [Instructors and office hours](#instructors-and-office-hours)
+- [Assignments & Due Dates](#assignments-due-dates)
+	- [Topic beat pre-reporting and pitch of 4 story ideas (5%)](#topic-beat-pre-reporting-and-pitch-of-4-story-ideas-5)
+	- [Class participation, class work, readings (15%)](#class-participation-class-work-readings-15)
+	- [Homework data exercises (15%)](#homework-data-exercises-15)
+	- [Story projects](#story-projects)
+	- [Deadlines](#deadlines)
+	- [Assignment Scale](#assignment-scale)
+	- [Assignment Values](#assignment-values)
+- [Grading Rubric](#grading-rubric)
+	- [For all Assignments](#for-all-assignments)
+	- [For Discussions](#for-discussions)
+	- [For In-class Exercises](#for-in-class-exercises)
+- [Capstone and extra credit](#capstone-and-extra-credit)
+- [Readings](#readings)
+- [Class Schedule](#class-schedule)
+	- [Week 1 (Feb. 1)](#week-1-feb-1)
+	- [Week 2 (Feb. 8)](#week-2-feb-8)
+	- [NO class, Monday schedule (Feb. 15)](#no-class-monday-schedule-feb-15)
+	- [Week 3 (Feb, 22)](#week-3-feb-22)
+	- [Week 4 (March 1)](#week-4-march-1)
+	- [Week 5 (March 8)](#week-5-march-8)
+	- [Week 6 (March 15)](#week-6-march-15)
+	- [Week 7 (March 22)](#week-7-march-22)
+	- [Week 8 (March 29)](#week-8-march-29)
+	- [Week 9 (April 5)](#week-9-april-5)
+	- [SPRINGBREAK. NO CLASS. April 12.](#springbreak-no-class-april-12)
+	- [Week 10 (April 19)](#week-10-april-19)
+	- [Week 11 (April 26)](#week-11-april-26)
+	- [Week 12 (May 3)](#week-12-may-3)
+	- [Week 13 (May 10)](#week-13-may-10)
+	- [Week 14 (May 17)](#week-14-may-17)
+	- [Week 15 (May 24)](#week-15-may-24)	
+- [Coaches](#coaches)
 
 <!-- /TOC -->
 
@@ -490,7 +490,10 @@ Class
 Homework:
 Each team prepares their Pitch of 4 Story Ideas and hands it in before next class.
 Read Chapter 3 "Spreadsheets, Part 1: Basic Math for Journalists". Pages 46 – 67.
-Read Chapter 1:  “What’s a Number?” Pages 1 - 10 from “Numbers in the Newsroom:  Using math and statistics in News”, by Sarah Cohen .
+Read Chapter 1:
+ “What’s a Number?” Pages 1 - 10 from “Numbers in the Newsroom:
+ Using math and statistics in News”, by Sarah Cohen
+.
 
 ###NO class, Monday schedule (Feb. 15)
 
@@ -508,7 +511,9 @@ Homework:
 Statistics Exercise 1
 Story 1 reporting memo 1
 Read Chapter 4 "Spreadsheets, Part 2: More Math that Matters". Pages 69 – 94. From “Computer-Assisted Reporting: A Practical Guide” by Brant Houston.
-Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom:  Using math and statistics in News”, by Sarah Cohen .
+Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom: 
+Using math and statistics in News”, by Sarah Cohen
+.
 
 
 ### Week 4 (March 1)
