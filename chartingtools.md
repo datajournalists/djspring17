@@ -72,6 +72,7 @@ What I like about it (besides the aforementioned):
 [Programming Tools for Data Journalism: video workshop](https://www.youtube.com/watch?v=cYoO2RvZn7Y).
 
 Next to add in the list:
+- https://chartaccent.github.io/chartaccent.html online editor, upload csv, choose and option and allows to annotate and export to png, svg and **animated gif**. 
 Data analysis and visualization
 MySQL, PostreSQL
 - SQLPad https://rickbergfalk.github.io/sqlpad/
