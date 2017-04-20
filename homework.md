@@ -1,11 +1,11 @@
 # Homework data exercises (15%)
 
-There are 10 individual homework data exercises. After the second assignment, the instructors will add here the assignment details. You will send your completed assignments via email.
+There are ~~10~~ 8 individual homework data exercises. You will send your completed assignments via email.
 
 
-## - Statistics exercise 1. Deadline: Wed. March 1, noon. Sent via email.
+## - Statistics exercise 1. Deadline: Wed. March 1, noon. Sent.
 
-## - Statistics exercise 2. Deadline: Wed. March 8, noon. Sent via email.
+## - Statistics exercise 2. Deadline: Wed. March 8, noon. Sent.
 
 ## - SQL exercise 1. Deadline: Wed. March 15, noon.
 
@@ -60,20 +60,17 @@ Once you’ve done that, write queries to do the following:
 
 Email us the `collins.sqlite` file as an attachment and the SQL results from 2 of your queries as .csv
 
-## - Statistics exercise 3. Deadline: Wed. March 29, noon
+## - Statistics exercise 3. Deadline: Wed. March 29, noon. Sent.
+
+~~## - Statistics exercise 4. Deadline: Wed. April 5, noon~~
+
+## - Cleaning and extracting data. Deadline: Wed. April 26, noon. Sent.
+Use Open Refine to clean data, then find news worthy patterns in the data by using filters and facets. Tutorial and assignment: http://bit.ly/djopenrefinetutorial
+
+## - Documents extraction exercise.  Deadline: Wed. May 3, noon
 To be added
 
-## - Statistics exercise 4. Deadline: Wed. April 5, noon
-To be added
-
-## - Cleaning and extracting data. Deadline: Wed. April 19, noon
-To be added
-
-## - Documents extraction exercise.  Deadline: Wed. April 26, noon
-To be added
-
-## - Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon
-To be added
+~~## - Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon~~
 
 ## - GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon
 To be added

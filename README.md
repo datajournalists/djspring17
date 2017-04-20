@@ -1,6 +1,8 @@
 
 # Data Journalism. Spring 2017, CUNY J-School
 
+*Updated: April 20, 2017*
+
 **Semester/code:** Spring 2017, JOUR 72312
 
 **Duration** 15 Weeks. February 1 to May 24. No classes on February 15 and April 12.
@@ -176,17 +178,17 @@ Your participation and professionalism includes attending all classes, arriving 
 
 ### Homework data exercises (15%)
 
-There will be 10 individual homework data exercises that will be [detailed the week before deadline, here](https://github.com/datajournalists/djspring17/blob/master/homework.md).
+There will be ~~10~~ 8 individual homework data exercises [detailed the week before deadline, here](https://github.com/datajournalists/djspring17/blob/master/homework.md).
 
 - Statistics exercise 1. Deadline: Wed. March 1, noon
 - Statistics exercise 2. Deadline: Wed. March 8, noon
 - SQL exercise 1. Deadline: Wed. March 15, noon
 - SQL exercise 2. Deadline: Wed. March 22, noon
 - Statistics exercise 3. Deadline: Wed. March 29, noon
-- Statistics exercise 4. Deadline: Wed. April 5, noon
-- Cleaning and extracting data. Deadline: Wed. April 19, noon
-- Documents extraction exercise.  Deadline: Wed. April 26, noon
-- Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon
+- ~~Statistics exercise 4. Deadline: Wed. April 5, noon~~
+- Cleaning and extracting data. Deadline: Wed. April 26, noon
+- Documents extraction exercise.  Deadline: Wed. May 3, noon
+- ~~Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon~~
 - GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon
 
 ### Story projects
@@ -267,8 +269,8 @@ Deadlines:
 - Reporting memo 3, Week 10. Wed. April 19, noon
 - Draft 1, Week 11. Wed. April 26, noon
 - Draft 2, Week 12. Wed. May 3, noon
-- Final story and web presentation, Week 13. Wed. May 10, noon.
-- Story 2 web page details,  Week 14, Wed. May 17, classwork
+- Final story 2 and web presentation, Week 13. Wed. May 10, noon.
+- Hand in edits of final story 2 and web page, Week 14. Wed. May 17, noon. (Class dedicated to work on web page details).
 
 ### Deadlines
 
@@ -311,23 +313,23 @@ Example: Story project 1 is 30% of your final grade. On a point scale your repor
   <tr>
     <td>Class participation, class work and readings (15%)</td>
     <td>Engaging in class and reading debates, asking questions, giving feedback to your peers, doing class exercises</td>
-    <td>100</td>
+    <td>~~100~~ 80</td>
   </tr>
   <tr>
     <td>Homework data exercises (15%)</td>
-    <td>10 data exercises.  
+    <td>~~10~~ 8 data exercises.  
 - Statistics exercise 1
 - Statistics exercise 2
 - SQL exercise 1
 - SQL exercise 2
 - Statistics exercise 3
-- Statistics exercise 4
+- ~~Statistics exercise 4~~
 - Cleaning and extracting data
 - Documents extraction exercise
-- Create charts or a simple graph database or network graph visualization with data of your Story 2
+- ~~Create charts or a simple graph database or network graph visualization with data of your Story 2~~
 - GeoSpatial Analysis Exercise </td>
-    <td>10 points for each completed  exercise.
-5 points for incomplete exercise.
+    <td>10 points for each completed exercise.
+6 points for incomplete exercise.
 
 0 points if you don’t hand it in.</td>
   </tr>
@@ -589,15 +591,10 @@ Download [Open Refine](http://openrefine.org/download.html), [Tabula](http://tab
 
 ### Week 9 (April 5)
 
-**Extracting and Cleaning Data: Open Refine, Tabula & PDF extractors, Basic Scraping.**
-
-Class
-1. Brief reporting memo feedback
-2. Extracting and Cleaning Data: Open Refine, Tabula & PDF extractors, Basic Scraping.
+**Math and Statistical Methods for Reporting 5: SPSS.**
 
 Homework
 Story 2 Reporting Memo 3
-Cleaning and extracting data exercise
 
 ### SPRINGBREAK. NO CLASS. April 12.
 
@@ -608,28 +605,24 @@ Cleaning and extracting data exercise
 
 Class
 1. Brief reporting memo feedback
-2. Extracting and Cleaning Data: Open Refine, Tabula & PDF extractors, Basic Scraping.
+2. Extracting and Cleaning Data: Open Refine.
 
 Homework
 Story 2 Draft 1
-Documents extraction exercise
-Watch video [Getting started analyzing Panama Papers with Neo4j](https://www.youtube.com/watch?v=P_2qCZGj430)
-
-Read [Analyzing Buzzfeed’s TrumpWorld Dataset with Neo4J](https://neo4j.com/blog/buzzfeed-trumpworld-dataset-neo4j/)
+Extracting and cleaning data exercise
 
 ### Week 11 (April 26)
 
-**Charting and network graph analysis tools. Who is connected to whom?**
+**Extracting and Cleaning Data: Open Refine, Tabula & PDF extractors, Basic Scraping.**
 
 Class
-1. Story 2 Draft 1 feedback
-2. Charting tools for data analysis
-3. Tools for doing networks analysis.
-4. **To be confirmed (guest speakers):** Hands on introduction to Neo4J and it’s Cypher queries with either [Panama Papers data](https://offshoreleaks.icij.org/pages/database) ([examples of queries](https://cloudfront-files-1.publicintegrity.org/offshoreleaks/neo4j/guide/examples.html)) or [TrumpWorld data](https://docs.google.com/spreadsheets/d/1Z5Vo5pbvxKJ5XpfALZXvCzW26Cl4we3OaN73K9Ae5Ss/edit).
+1. Brief reporting memo feedback
+2. Extracting and Cleaning Data: Tabula & PDF extractors, Basic Scraping
 
 Homework
 Story 2 Draft 2
-Exercise: Create charts or a simple graph database or network graph visualization with data of your Story 2
+Documents extraction exercise
+
 
 ### Week 12 (May 3)
 
@@ -640,7 +633,7 @@ Class
 2. Newsroom work: review each team’s Story 2 Draft and require improvements to be done for handing in the Final version.
 
 Homework
-Story 2 Final
+Story 2 Final and web presentation
 GeoSpatial Analysis Exercise
 
 ### Week 13 (May 10)
@@ -656,8 +649,6 @@ Homework
 Author web pages of stories and include interactive elements
 
 ### Week 14 (May 17)
-
-**Hands on newsroom work.**
 
 Class
 1. Hands on web page work for stories.
