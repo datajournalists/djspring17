@@ -313,24 +313,21 @@ Example: Story project 1 is 30% of your final grade. On a point scale your repor
   <tr>
     <td>Class participation, class work and readings (15%)</td>
     <td>Engaging in class and reading debates, asking questions, giving feedback to your peers, doing class exercises</td>
-    <td>~~100~~ 80</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>Homework data exercises (15%)</td>
-    <td>~~10~~ 8 data exercises.  
+    <td>8 data exercises.  
 - Statistics exercise 1
 - Statistics exercise 2
 - SQL exercise 1
 - SQL exercise 2
 - Statistics exercise 3
-- ~~Statistics exercise 4~~
 - Cleaning and extracting data
 - Documents extraction exercise
-- ~~Create charts or a simple graph database or network graph visualization with data of your Story 2~~
 - GeoSpatial Analysis Exercise </td>
     <td>10 points for each completed exercise.
-6 points for incomplete exercise.
-
+5 points for incomplete exercise.
 0 points if you don’t hand it in.</td>
   </tr>
   <tr>
