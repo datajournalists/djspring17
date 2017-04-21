@@ -480,22 +480,17 @@ Read Chapter 1 "Data Journalism: What Computer-Assisted Reporting is and Why Jou
 **Backgrounding people and organizations, planning and pitching investigations.**
 
 Class
-
 1. Backgrounding people and organizations. [http://bit.ly/devosarticles](http://bit.ly/devosarticles)
 2. Review of team research, group feedback (5 minutes each).
 3. The Pitch (examples and requirements)
 4. How to plan and do a Data Driven Investigation. [http://bit.ly/howtoinvestigateandpitch](http://bit.ly/howtoinvestigateandpitch)
 
 
-Homework:
-Each team prepares their Pitch of 4 Story Ideas and hands it in before next class.
-Read Chapter 3 "Spreadsheets, Part 1: Basic Math for Journalists". Pages 46 – 67.
-Read Chapter 1:
- “What’s a Number?” Pages 1 - 10 from “Numbers in the Newsroom:
- Using math and statistics in News”, by Sarah Cohen
-.
+Homework
+1. Each team prepares their Pitch of 4 Story Ideas and hands it in before next class.
+2. Read Chapter 3 "Spreadsheets, Part 1: Basic Math for Journalists". Pages 46 – 67. Read Chapter 1: “What’s a Number?” Pages 1 - 10 from “Numbers in the Newsroom: Using math and statistics in News”, by Sarah Cohen.
 
-###NO class, Monday schedule (Feb. 15)
+### NO class, Monday schedule (Feb. 15)
 
 ### Week 3 (Feb, 22)
 
@@ -508,12 +503,10 @@ Class
 4. Math for Journalists using Excel: Sums, differences, percent change, sorting. Hands on class work.
 
 Homework:
-Statistics Exercise 1
-Story 1 reporting memo 1
-Read Chapter 4 "Spreadsheets, Part 2: More Math that Matters". Pages 69 – 94. From “Computer-Assisted Reporting: A Practical Guide” by Brant Houston.
-Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom:
-Using math and statistics in News”, by Sarah Cohen
-.
+1. Statistics Exercise 1
+2. Story 1 reporting memo 1
+3. Read Chapter 4 "Spreadsheets, Part 2: More Math that Matters". Pages 69 – 94. From “Computer-Assisted Reporting: A Practical Guide” by Brant Houston.
+Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom: Using math and statistics in News”, by Sarah Cohen.
 
 
 ### Week 4 (March 1)
@@ -525,9 +518,9 @@ Class
 2. Math for Journalists using Excel: Review last week, Rates, Ranking, Ratios, Filtering, Pivot Tables, Adjusting for Inflation, String functions.
 
 Homework
-Story 1 reporting memo 2
-Statistics Exercise 2
-[Install SQLite](https://github.com/miguelpaz/install-SQLite) and read [Part 1 of this tutorial](https://github.com/miguelpaz/SQL-Tutorial)
+1. Story 1 reporting memo 2
+2. Statistics Exercise 2
+3. [Install SQLite](https://github.com/miguelpaz/install-SQLite) and read [Part 1 of this tutorial](https://github.com/miguelpaz/SQL-Tutorial)
 
 ### Week 5 (March 8)
 
@@ -539,12 +532,8 @@ Class
 3. Introduction to SQL and the use of SQLite for data analysis and reporting: Queries, Sorting, Grouping, Filter.
 
 Homework:
-Story 1 Draft
-SQL exercise 1
-Useful tutorials:
-[SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks)
-[SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
-[Six min. Video tutorial to create a SQLite database](https://www.youtube.com/watch?v=k5OqwUahocc)(don't pay attention to the last part)
+1. Story 1 Draft
+2. SQL exercise 1 (Useful tutorials: [SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks),[SQL Intro](https://www.w3schools.com/sql/sql_intro.asp), [Six min. Video tutorial to create a SQLite database](https://www.youtube.com/watch?v=k5OqwUahocc)(don't pay attention to the last part)
 
 ### Week 6 (March 15)
 
@@ -556,8 +545,8 @@ Class
 3. Newsroom work: review each team’s Story 1 Draft and require improvements to be done for handing in the Final version.
 
 Homework
-Story 1 Final Version
-SQL exercise 2
+1. Story 1 Final Version
+2. SQL exercise 2
 
 ### Week 7 (March 22)
 
@@ -569,8 +558,8 @@ Class
 3. Newsroom work: review of each teams Story 1 Final. **Teams decide if they go with Story 2 or will propose another Story idea.**
 
 Homework:
-Story 2 Reporting Memo 1 (or Pitch for New Story 2 if it’s the case)
-Statistics Exercise 3
+1. Story 2 Reporting Memo 1 (or Pitch for New Story 2 if it’s the case)
+2. Statistics Exercise 3
 
 ### Week 8 (March 29)
 
@@ -582,16 +571,18 @@ Math and Statistical Methods for Reporting 4. SPSS.
 2. Brief reporting memo feedback
 
 Homework:
-Story 2 Reporting Memo 2
-Statistics exercise 4
-Download [Open Refine](http://openrefine.org/download.html), [Tabula](http://tabula.technology/), [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en), sign up for [Import.io](https://www.import.io/)
+1. Story 2 Reporting Memo 2
+2. Statistics exercise 4
+3. Download [Open Refine](http://openrefine.org/download.html), [Tabula](http://tabula.technology/), [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en), sign up for [Import.io](https://www.import.io/)
 
 ### Week 9 (April 5)
 
 **Math and Statistical Methods for Reporting 5: SPSS.**
 
+Class (reinforcement of previous two sessions)
+
 Homework
-Story 2 Reporting Memo 3
+1. Story 2 Reporting Memo 3
 
 ### SPRINGBREAK. NO CLASS. April 12.
 
@@ -605,8 +596,8 @@ Class
 2. Extracting and Cleaning Data: Open Refine.
 
 Homework
-Story 2 Draft 1
-Extracting and cleaning data exercise
+1. Story 2 Draft 1
+2. Extracting and cleaning data exercise
 
 ### Week 11 (April 26)
 
@@ -617,8 +608,8 @@ Class
 2. Extracting and Cleaning Data: Tabula & PDF extractors, Basic Scraping
 
 Homework
-Story 2 Draft 2
-Documents extraction exercise
+1. Story 2 Draft 2
+2. Documents extraction exercise
 
 
 ### Week 12 (May 3)
@@ -630,8 +621,8 @@ Class
 2. Newsroom work: review each team’s Story 2 Draft and require improvements to be done for handing in the Final version.
 
 Homework
-Story 2 Final and web presentation
-GeoSpatial Analysis Exercise
+1. Story 2 Final and web presentation
+2. GeoSpatial Analysis Exercise
 
 ### Week 13 (May 10)
 
@@ -643,7 +634,7 @@ Class
 3. Teams brainstorm and plan how to present and publish the final story 2 in the web.
 
 Homework
-Author web pages of stories and include interactive elements
+1. Author web pages of stories and include interactive elements
 
 ### Week 14 (May 17)
 
@@ -653,10 +644,11 @@ Class
 ### Week 15 (May 24)
 
 **Demo day**
+
 Class
-Demos
-Course evals
-Wrap up
+1. Demos
+2. Course evals
+3. Wrap up
 
 ## Coaches
 
