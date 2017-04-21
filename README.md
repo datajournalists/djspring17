@@ -1,4 +1,5 @@
 
+
 # Data Journalism. Spring 2017, CUNY J-School
 
 *Updated: April 20, 2017*
@@ -485,22 +486,9 @@ Class
 3. The Pitch (examples and requirements)
 4. How to plan and do a Data Driven Investigation. [http://bit.ly/howtoinvestigateandpitch](http://bit.ly/howtoinvestigateandpitch)
 
-
-<<<<<<< HEAD
 Homework
 1. Each team prepares their Pitch of 4 Story Ideas and hands it in before next class.
 2. Read Chapter 3 "Spreadsheets, Part 1: Basic Math for Journalists". Pages 46 – 67. Read Chapter 1: “What’s a Number?” Pages 1 - 10 from “Numbers in the Newsroom: Using math and statistics in News”, by Sarah Cohen.
-=======
-Homework:
-
-Each team prepares their Pitch of 4 Story Ideas and hands it in before next class.
-
-Read Chapter 3 "Spreadsheets, Part 1: Basic Math for Journalists". Pages 46 – 67.
-
-Read Chapter 1: “What’s a Number?” Pages 1 - 10 from “Numbers in the Newsroom:
- Using math and statistics in News”, by Sarah Cohen
-.
->>>>>>> origin/master
 
 ### NO class, Monday schedule (Feb. 15)
 
@@ -515,19 +503,9 @@ Class
 4. Math for Journalists using Excel: Sums, differences, percent change, sorting. Hands on class work.
 
 Homework:
-<<<<<<< HEAD
 1. Statistics Exercise 1
 2. Story 1 reporting memo 1
-3. Read Chapter 4 "Spreadsheets, Part 2: More Math that Matters". Pages 69 – 94. From “Computer-Assisted Reporting: A Practical Guide” by Brant Houston.
-Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom: Using math and statistics in News”, by Sarah Cohen.
-=======
-Statistics Exercise 1
-Story 1 reporting memo 1
-Read Chapter 4 "Spreadsheets, Part 2: More Math that Matters". Pages 69 – 94. From “Computer-Assisted Reporting: A Practical Guide” by Brant Houston.
-Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom:
-Using math and statistics in News”, by Sarah Cohen.
->>>>>>> origin/master
-
+3. Read Chapter 4 "Spreadsheets, Part 2: More Math that Matters". Pages 69 – 94. From “Computer-Assisted Reporting: A Practical Guide” by Brant Houston. Read Chapter 2: “A Newsroom math guide”. Pages 11 – 60 from “Numbers in the Newsroom: Using math and statistics in News”, by Sarah Cohen.
 
 ### Week 4 (March 1)
 
@@ -538,17 +516,9 @@ Class
 2. Math for Journalists using Excel: Review last week, Rates, Ranking, Ratios, Filtering, Pivot Tables, Adjusting for Inflation, String functions.
 
 Homework
-<<<<<<< HEAD
 1. Story 1 reporting memo 2
 2. Statistics Exercise 2
 3. [Install SQLite](https://github.com/miguelpaz/install-SQLite) and read [Part 1 of this tutorial](https://github.com/miguelpaz/SQL-Tutorial)
-=======
-Story 1 reporting memo 2
-
-Statistics Exercise 2
-
-[Install SQLite](https://github.com/miguelpaz/install-SQLite) and read [Part 1 of this tutorial](https://github.com/miguelpaz/SQL-Tutorial)
->>>>>>> origin/master
 
 ### Week 5 (March 8)
 
@@ -560,22 +530,8 @@ Class
 3. Introduction to SQL and the use of SQLite for data analysis and reporting: Queries, Sorting, Grouping, Filter.
 
 Homework:
-<<<<<<< HEAD
 1. Story 1 Draft
 2. SQL exercise 1 (Useful tutorials: [SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks),[SQL Intro](https://www.w3schools.com/sql/sql_intro.asp), [Six min. Video tutorial to create a SQLite database](https://www.youtube.com/watch?v=k5OqwUahocc)(don't pay attention to the last part)
-=======
-
-Story 1 Draft
-
-SQL exercise 1
-
-Useful tutorials:
-
-[SQLite Wiki](https://github.com/lazierthanthou/sqlite-manager/wiki/Common-Tasks)
-
-[SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
-[Six min. Video tutorial to create a SQLite database](https://www.youtube.com/watch?v=k5OqwUahocc)(don't pay attention to the last part)
->>>>>>> origin/master
 
 ### Week 6 (March 15)
 
