@@ -608,14 +608,15 @@ Class
 Homework
 1. Story 2 Draft 2
 2. Documents extraction exercise
+3. [Download and install Qgis](https://github.com/datajournalists/qgis_tutorial/blob/master/installation.md)
 
 
 ### Week 12 (May 3)
 
-**GeoSpatial Analysis. Principles and practices 1. ArcView.**
+**GeoSpatial Analysis. Principles and practices 1. QGis.**
 
 Class
-1. GeoSpatial Analysis. Principles and practices. ArcView.
+1. GeoSpatial Analysis. Principles and practices. QGis.
 2. Newsroom work: review each team’s Story 2 Draft and require improvements to be done for handing in the Final version.
 
 Homework
@@ -624,10 +625,10 @@ Homework
 
 ### Week 13 (May 10)
 
-**GeoSpatial Analysis. Principles and practices 2. ArcView.**
+**GeoSpatial Analysis. Principles and practices 2. QGis.**
 
 Class
-1. GeoSpatial Analysis. Principles and practices. ArcView.
+1. GeoSpatial Analysis. Principles and practices. QGis.
 2. Newsroom work: review of each teams Story 2 Final.
 3. Teams brainstorm and plan how to present and publish the final story 2 in the web.
 
