@@ -481,10 +481,10 @@ Read Chapter 1 "Data Journalism: What Computer-Assisted Reporting is and Why Jou
 **Backgrounding people and organizations, planning and pitching investigations.**
 
 Class
-1. Backgrounding people and organizations. [http://bit.ly/devosarticles](http://bit.ly/devosarticles)
+1. Backgrounding people and organizations. [Lesson](http://bit.ly/devosarticles)
 2. Review of team research, group feedback (5 minutes each).
 3. The Pitch (examples and requirements)
-4. How to plan and do a Data Driven Investigation. [http://bit.ly/howtoinvestigateandpitch](http://bit.ly/howtoinvestigateandpitch)
+4. How to plan and do a Data Driven Investigation. [Lesson](http://bit.ly/howtoinvestigateandpitch)
 
 Homework
 1. Each team prepares their Pitch of 4 Story Ideas and hands it in before next class.
@@ -591,7 +591,7 @@ Homework
 
 Class
 1. Brief reporting memo feedback
-2. Extracting and Cleaning Data: Open Refine.
+2. Extracting and Cleaning Data: Open Refine. [Lesson](http://bit.ly/djopenrefinetutorial)
 
 Homework
 1. Story 2 Draft 1
@@ -603,7 +603,7 @@ Homework
 
 Class
 1. Brief reporting memo feedback
-2. Extracting and Cleaning Data: Tabula & PDF extractors, Basic Scraping
+2. Extracting and Cleaning Data: Tabula & PDF extractors, Basic Scraping. [Lesson](http://bit.ly/pdftabulaexercise)
 
 Homework
 1. Story 2 Draft 2
@@ -616,7 +616,7 @@ Homework
 **GeoSpatial Analysis. Principles and practices 1. QGis.**
 
 Class
-1. GeoSpatial Analysis. Principles and practices. QGis.
+1. GeoSpatial Analysis. Principles and practices. QGis. [Lesson](http://bit.ly/qgislesson1)
 2. Newsroom work: review each team’s Story 2 Draft and require improvements to be done for handing in the Final version.
 
 Homework
@@ -628,12 +628,12 @@ Homework
 **GeoSpatial Analysis. Principles and practices 2. QGis.**
 
 Class
-1. GeoSpatial Analysis. Principles and practices. QGis.
+1. GeoSpatial Analysis. Principles and practices. QGis. [Lesson](http://bit.ly/qgislesson2)
 2. Newsroom work: review of each teams Story 2 Final.
 3. Teams brainstorm and plan how to present and publish the final story 2 in the web.
 
 Homework
-1. Author web pages of stories and include interactive elements
+1. Author web pages of stories and include interactive elements. [Requirements](http://bit.ly/ddjwebpresentation) 
 
 ### Week 14 (May 17)
 
