@@ -2,7 +2,7 @@
 
 # Data Journalism. Spring 2017, CUNY J-School
 
-*Updated: April 20, 2017*
+*Updated: May 23, 2017*
 
 **Semester/code:** Spring 2017, JOUR 72312
 
@@ -179,7 +179,7 @@ Your participation and professionalism includes attending all classes, arriving 
 
 ### Homework data exercises (15%)
 
-There will be ~~10~~ 8 individual homework data exercises [detailed the week before deadline, here](https://github.com/datajournalists/djspring17/blob/master/homework.md).
+There will be ~~8~~ 7 individual homework data exercises [detailed the week before deadline, here](https://github.com/datajournalists/djspring17/blob/master/homework.md).
 
 - Statistics exercise 1. Deadline: Wed. March 1, noon
 - Statistics exercise 2. Deadline: Wed. March 8, noon
@@ -190,7 +190,7 @@ There will be ~~10~~ 8 individual homework data exercises [detailed the week bef
 - Cleaning and extracting data. Deadline: Wed. April 26, noon
 - Documents extraction exercise.  Deadline: Wed. May 3, noon
 - ~~Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon~~
-- GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon
+- ~~GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon~~
 
 ### Story projects
 
@@ -318,15 +318,14 @@ Example: Story project 1 is 30% of your final grade. On a point scale your repor
   </tr>
   <tr>
     <td>Homework data exercises (15%)</td>
-    <td>8 data exercises.  
+    <td>7 data exercises.  
 - Statistics exercise 1
 - Statistics exercise 2
 - SQL exercise 1
 - SQL exercise 2
 - Statistics exercise 3
 - Cleaning and extracting data
-- Documents extraction exercise
-- GeoSpatial Analysis Exercise </td>
+- Documents extraction exercise </td>
     <td>10 points for each completed exercise.
 5 points for incomplete exercise.
 0 points if you don’t hand it in.</td>
@@ -621,7 +620,7 @@ Class
 
 Homework
 1. Story 2 Final and web presentation
-2. GeoSpatial Analysis Exercise
+2. ~~GeoSpatial Analysis Exercise~~
 
 ### Week 13 (May 10)
 

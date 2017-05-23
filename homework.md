@@ -72,5 +72,4 @@ To be added
 
 ~~## - Create charts or a simple graph database or network graph visualization with data of your Story 2. Deadline: Wed. May 3, noon~~
 
-## - GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon
-To be added
+~~## - GeoSpatial Analysis Exercise. Deadline: Wed. May 10, noon~~
